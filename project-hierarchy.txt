@@ -1,0 +1,9 @@
+Project_01_DA
+├─ .kaggle
+│  └─ kaggle.json:Zone.Identifier
+├─ extract_zip_csv
+│  └─ orders.csv
+├─ main.ipynb
+├─ main.py
+└─ raw_zipfile
+   └─ orders.csv.zip
