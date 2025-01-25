@@ -1,7 +1,6 @@
 # Project ETL => Python & SQL & PowerBI
 
--An End-to-End project: Download the data from Kaggle API into vscode using python (pandas,jupyter,zipfile etc).
--Perform ETL to final destination SQL Server then to Power BI
+-An End-to-End project: his project involves downloading data from the Kaggle API into Visual Studio Code using Python libraries (such as Pandas, Jupyter, and Zipfile). The data is then processed through an ETL pipeline to the final destination in SQL Server, and ultimately visualized using Power BI.
 
 ## Requirements
 
