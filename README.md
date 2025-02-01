@@ -1,6 +1,9 @@
 # Project ETL => Python & SQL & PowerBI
 
--An End-to-End project: his project involves downloading data from the Kaggle API into Visual Studio Code using Python libraries (such as Pandas, Jupyter, and Zipfile). The data is then processed through an ETL pipeline to the final destination in SQL Server, and ultimately visualized using Power BI.
+- End-to-End Data Pipeline: Developed an ETL pipeline that automated data extraction from Kaggle API using Python (Pandas, Jupyter, Zipfile), ensuring seamless data processing from raw to final output.
+- Data Processing & Transformation: Cleaned, transformed, and processed large datasets in Python, optimizing data for storage in SQL Server and ensuring integrity for analysis.
+- SQL Server Integration: Implemented a robust database architecture in SQL Server, efficiently managing data storage and querying for performance optimization.
+- Data Visualization in Power BI: Created interactive Power BI dashboards to visualize key insights, enabling stakeholders to analyze trends, KPIs, and other metrics in real time.
 
 ## Requirements
 
